@@ -3,3 +3,6 @@
 ###### This is an `<h6>` header, which is the smallest
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 # Team Turner Solutions
+- [ ] Start Learning
+- [ ] Continue Learning
+- [ ] Never stop learning
